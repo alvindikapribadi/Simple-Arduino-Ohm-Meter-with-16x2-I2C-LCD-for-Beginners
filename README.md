@@ -73,7 +73,7 @@ It is intended as a beginner learning project rather than a precision replacemen
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Simple_Arduino_Ohm_Meter.ino)
+[Download Arduino Code](Arduino_Ohm_Meter_with_16x2_I2C_LCD.ino)
 
 Or open the `.ino` file directly inside this repository.
 
