@@ -117,7 +117,7 @@ Higher resistance values can still be measured, but accuracy may decrease becaus
 
 Watch the full step-by-step tutorial on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/bziSjg59-HI/0.jpg)](https://youtu.be/bziSjg59-HI)
 
 In this video, you will see:
 - Complete wiring tutorial  
